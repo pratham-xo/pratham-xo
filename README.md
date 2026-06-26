@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Soni</h1>
 <h3 align="center">Hi 👋, I'm Pratham Soni AKA Pratham-XO</h3>
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **Flutter,Firebase & java**
+- 💬 Ask me about **Docker,Terraform & Kubernetes**
 
 - 📫 How to reach me **prathamsoni268@gmail.com**
 
