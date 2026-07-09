@@ -57,8 +57,4 @@
   <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="40"/>
 </a>
 
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40"/>
-</a>
-
 </p>
